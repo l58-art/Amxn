@@ -1,0 +1,1 @@
+{\n  "expo": {\n    "name": "Amxn",\n    "slug": "amxn",\n    "version": "1.0.0",\n    "sdkVersion": "46.0.0",\n    "platforms": [\n      "ios",\n      "android",\n      "web"\n    ],\n    "dependencies": {},\n    "developmentClient": true\n  }\n}
