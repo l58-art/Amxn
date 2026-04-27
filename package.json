@@ -1,0 +1,28 @@
+{
+  "name": "amxn",
+  "version": "1.0.0",
+  "description": "A mobile chatting app built with Expo and React Native",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-native": "0.71.8",
+    "expo": "~48.0.0",
+    "expo-status-bar": "~1.4.4",
+    "@react-navigation/native": "^6.1.6",
+    "@react-navigation/bottom-tabs": "^6.5.0",
+    "react-native-screens": "~3.20.0",
+    "react-native-safe-area-context": "4.5.0",
+    "react-native-gesture-handler": "~2.9.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
